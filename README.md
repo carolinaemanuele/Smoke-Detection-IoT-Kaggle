@@ -17,4 +17,4 @@ No mundo atual bilhões de dados são gerados diariamente por aplicativos, redes
 ![Scipy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EABE6.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ---
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carolina-emanuele)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-emanuele/)
