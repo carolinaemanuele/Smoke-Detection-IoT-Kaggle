@@ -6,6 +6,8 @@ No mundo atual bilhões de dados são gerados diariamente por aplicativos, redes
   
   Essa análise possibilita a aquisição de conhecimentos fundamentais para análise de dados, como a estatística descritiva e inferencial, que são fundamentais para observar a presença de padrões e correlações entre os dados, possibilitando a compreensão dos fatores que levam a ocorrência de fenômenos e a possibilidade de executar previsões sobre situações futuras com base no comportamento do presente momento. Isso tem um grande impacto positivo para a sociedade, tendo em vista que no caso em questão, por exemplo, as previsões corretas podem evitar perdas humanas, animais e materiais.
 
+Leia o relatório completo [aqui](https://github.com/carolinaemanuele/Smoke-Detection-Kaggle/blob/main/Relat%C3%B3rio-Tomorrow-smoke-detection.md).
+
 ---
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/carolinaemanuele/smoke-detection-analysis)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)](https://colab.research.google.com/drive/14kM-xWdNALWDRxMWg1nGXsG93W4kj9Pd?usp=sharing)
